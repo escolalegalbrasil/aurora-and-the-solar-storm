@@ -19,3 +19,4 @@ window.addEventListener('keydown', (e)=>{
   if (e.key === 'ArrowLeft')  carousel.scrollBy({ left: -pageWidth(), behavior:'smooth' });
   if (e.key === 'ArrowRight') carousel.scrollBy({ left:  pageWidth(), behavior:'smooth' });
 });
+
