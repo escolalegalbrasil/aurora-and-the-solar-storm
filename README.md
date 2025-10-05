@@ -47,7 +47,7 @@ The project promotes **STEM education**, **media literacy**, and **creativity** 
 
 ## 🖼️ Illustration Example
 
-![Aurora’s Landing](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6QKP7jYd5l-4E4zdMif8GKDD_pCzW6reFFZWJT4x8SIayytD6TiU51zULnogAoOjrKQcicTiLPilTMVeKTmUUMf-seWOViWGLi1hqfdsrg_KrkZcFhZGvIVkdS2-iLt8rlvT0oltQIKYh9EfupkB4XAybjjh3IPkJVro9xbtbjo_nBamY5CWnBfJJk2Q_/s320/1000055293.jpg)
+![Aurora’s Landing](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6QKP7jYd5l-4E4zdMif8GKDD_pCzW6reFFZWJT4x8SIayytD6TiU51zULnogAoOjrKQcicTiLPilTMVeKTmUUMf-seWOViWGLi1hqfdsrg_KrkZcFhZGvIVkdS2-iLt8rlvT0oltQIKYh9EfupkB4XAybjjh3IPkJVro9xbtbjo_nBamY5CWnBfJJk2Q_/s320/1000055293.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaIfEtgkpP9JHphkim8nm7_y41-5E-_3KxQqQL2mHJPm_S1sCp5EZo5bUUVoVraedpdkYrQ9DG0wtCMzTFxhc4xZodgurVoqjevtKvWsesdsoZeZ9a6icoPfFvfe6O_IL0O7lxj1yTa9IDOanPUaS3U8zlkcIHBpLka8mpiPC1Y31vR6g_G0KmNvYMsU4s/s320/1000055334.png)
 
 ---
 
