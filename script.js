@@ -1,22 +1,28 @@
-const carousel = document.querySelector('.carousel');
-const btnPrev  = document.getElementById('prevBtn');
-const btnNext  = document.getElementById('nextBtn');
+document.addEventListener('DOMContentLoaded', () => {
+  const carousel = document.querySelector('.carousel');
+  const btnPrev  = document.getElementById('prevBtn');
+  const btnNext  = document.getElementById('nextBtn');
 
-function pageWidth(){
-  return carousel.getBoundingClientRect().width;
-}
+  
+  const items = carousel.querySelectorAll('.carousel-item');
+  carousel.style.setProperty('--slides', String(items.length));
 
-btnPrev.addEventListener('click', ()=>{
-  carousel.scrollBy({ left: -pageWidth(), behavior: 'smooth' });
+ 
+  function pageWidth(){ return carousel.getBoundingClientRect().width; }
+
+  btnPrev.addEventListener('click', () => {
+    carousel.scrollBy({ left: -pageWidth(), behavior: 'smooth' });
+  });
+
+  btnNext.addEventListener('click', () => {
+    carousel.scrollBy({ left:  pageWidth(), behavior: 'smooth' });
+  });
+
+  window.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowLeft')  carousel.scrollBy({ left: -pageWidth(), behavior: 'smooth' });
+    if (e.key === 'ArrowRight') carousel.scrollBy({ left:  pageWidth(), behavior: 'smooth' });
+  });
 });
 
-btnNext.addEventListener('click', ()=>{
-  carousel.scrollBy({ left:  pageWidth(), behavior: 'smooth' });
-});
 
-// Setas do teclado
-window.addEventListener('keydown', (e)=>{
-  if (e.key === 'ArrowLeft')  carousel.scrollBy({ left: -pageWidth(), behavior:'smooth' });
-  if (e.key === 'ArrowRight') carousel.scrollBy({ left:  pageWidth(), behavior:'smooth' });
-});
 
