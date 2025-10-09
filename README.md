@@ -57,9 +57,14 @@ The project promotes **STEM education**, **media literacy**, and **creativity** 
 ## 👩‍🚀 Team
 
 **Escola Legal – Brazil**  
-- Nilton Machado (educator & mentor)  
-- Students from Escola Legal (ages 9–14)  
-- Project developed during NASA Space Apps Challenge 2025
+ 
+- Students from Escola Legal:
+Erin Otero (11 years old)
+Giovana Bergamin (14 years old)
+Kimi Kauan Moreno (15 years old)
+Lavinia Lamarca (10 years old)
+- Nilton Machado (educator & mentor) 
+- Project developed during NASA Space Apps Challenge 2025 - now it´s going to keep evoiving!
 
 ---
 
